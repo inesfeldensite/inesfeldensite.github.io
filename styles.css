@@ -39,7 +39,8 @@ hr {
 
 nav {
 	text-align: center;
-	font-weight: bold;
+	font-size: large;
+	/*font-weight: bold;*/
 	letter-spacing: 1px;
 }
 
