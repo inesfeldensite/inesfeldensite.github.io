@@ -13,12 +13,35 @@ p {
 	margin-left: 20px;
 }
 
+.subheading {
+	text-align: center;
+	font-size: large;
+	font-style:  italic;
+}
+
 a:link {
 	color: darkblue;
 }
 
 a:visited {
 	color: indigo;
+}
+
+nav {
+	text-align: center;
+	font-size: large;
+	/*font-weight: bold;*/
+	letter-spacing: 1px;
+	color: black;
+}
+
+nav a:link, nav a:visited {
+    color:midnightblue;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
 }
 
 h2,h3 {
@@ -35,13 +58,6 @@ hr {
 	margin-left:0;
 	max-width: 700px;
 	margin-top: 30px;
-}
-
-nav {
-	text-align: center;
-	font-size: large;
-	/*font-weight: bold;*/
-	letter-spacing: 1px;
 }
 
 .imagealign {
