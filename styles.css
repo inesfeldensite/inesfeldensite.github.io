@@ -33,6 +33,12 @@ a:visited {
 	color: indigo;
 }
 
+iframe {
+	display :block;
+	margin: auto;
+	position: relative;
+}
+
 nav {
 	text-align: center;
 	font-size: large;
